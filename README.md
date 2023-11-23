@@ -1,7 +1,7 @@
 # Activity Overview
-In this activity i was to visualize data from the Minnesota Department of Transportation to help them improve the infrastructure on the Minneapolis interstate.
+In this activity I  visualized data from the Minnesota Department of Transportation to help them improve the infrastructure on the Minneapolis interstate.
 
-In this activity i was able to connect with stakeholders business needs in my visuals.
+In this activity I was able to connect with stakeholders business needs in my visuals.
 
 ## The most important charts needed to show
 
