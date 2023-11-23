@@ -5,11 +5,11 @@ In this activity i was able to connect with stakeholders business needs in my vi
 
 ## The most important charts needed to show
 
-Traffic volume throughout the year; ideally organized by year, month, weekday, and hour.
+* Traffic volume throughout the year; ideally organized by year, month, weekday, and hour.
 
-Traffic volume in various weather conditions.
+* Traffic volume in various weather conditions.
 
-Traffic volume on different holidays.
+* Traffic volume on different holidays.
 
 ## Dashboard
 I created an interactive dashboard that met the needs of the client who wanted to compare the traffic volumes at different points in time.They also wanted to check how holidays and weather patterns throughout the year affected the traffic volumes.
