@@ -5,7 +5,7 @@ In this activity i was able to connect with stakeholders business needs in my vi
 
 ## The most important charts needed to show
 
-Traffic volume throughout the year; ideally organized by year, month, week, day, and hour.
+Traffic volume throughout the year; ideally organized by year, month, weekday, and hour.
 
 Traffic volume in various weather conditions.
 
