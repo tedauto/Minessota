@@ -12,7 +12,11 @@ In this activity i was able to connect with stakeholders business needs in my vi
 * Traffic volume on different holidays.
 
 ## Dashboard
-I created an interactive dashboard that met the needs of the client who wanted to compare the traffic volumes at different points in time.They also wanted to check how holidays and weather patterns throughout the year affected the traffic volumes.
+I created an interactive dashboard that met the needs of the client who wanted to compare the traffic volumes at different points in time.They also wanted to check how holidays and weather 
+
+patterns throughout the year affected the traffic volumes.
+
+[Click here](https://public.tableau.com/views/MinessotaTrafficVolume_16963470300130/MinessotaTrafficVolume?:language=en-US&:display_count=n&:origin=viz_share_link) to view the dashboard.
 
 ## Presentation
 I communicated the insights to the stakeholders addressing:
