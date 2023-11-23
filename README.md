@@ -17,8 +17,6 @@ I created an interactive dashboard that met the needs of the client who wanted t
 ## Presentation
 I communicated the insights to the stakeholders addressing:
 
-the clients problems,
-
-the methods i used to create visualization and
-
-a brief summary of the insights from the visulizations to help in decision making.
+* the clients problems,
+* the methods i used to create visualization and
+* a brief summary of the insights from the visulizations to help in decision making.
